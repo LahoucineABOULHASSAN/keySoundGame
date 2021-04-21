@@ -1,0 +1,22 @@
+{
+  "name": "keysoundgame",
+  "version": "1.0.0",
+  "description": "a javascript sound game, when you clikc on some key on the keyboard a certen sound plays. it's a dom manipulating game",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LahoucineABOULHASSAN/keySoundGame.git"
+  },
+  "author": "lahoucine aboulhassan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LahoucineABOULHASSAN/keySoundGame/issues"
+  },
+  "homepage": "https://github.com/LahoucineABOULHASSAN/keySoundGame#readme"
+}
